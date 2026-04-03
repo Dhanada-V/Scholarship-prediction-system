@@ -1,0 +1,5 @@
+venv/
+scholarship_env/
+__pycache__/
+*.pyc 
+.idea/ 

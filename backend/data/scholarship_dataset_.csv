@@ -1,0 +1,1137 @@
+student_id,level,stream,gender,religion,minority_status,caste_category,previous_education_percentage,annual_income,other_scholarship,scholarship_id,scholarship_name,min_percentage,max_income,eligible,allowed_caste
+S00338,UG,BCom Finance,Female,Muslim,1,General,78.8,343677,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00225,PG,MA English,Male,Hindu,0,General,76.3,355614,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00243,UG,BCom Finance,Male,Christian,1,General,64.7,475369,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00185,UG,BSc Chemistry,Female,Hindu,0,SC,54.5,641304,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00411,UG,BA Economics,Male,Hindu,0,General,71.9,476620,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00188,UG,BA English,Female,Hindu,0,OBC,76.5,346311,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00362,UG,BSc Chemistry,Male,Muslim,1,General,75,79948,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00028,PG,MA English,Male,Hindu,0,ST,59.7,292801,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00241,UG,BA English,Male,Hindu,0,OBC,61.2,58739,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00227,UG,BA Economics,Male,Hindu,0,OBC,66.3,248515,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00143,UG,BSc Mathematics,Male,Christian,1,General,75.3,576345,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00261,PG,MCom Finance,Female,Hindu,0,SC,77.5,214770,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00162,UG,BA Economics,Female,Hindu,0,General,82.1,128973,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00428,UG,BCom Finance,Female,Hindu,0,General,82.3,671512,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00126,PG,MA English,Female,Hindu,0,General,67.8,65831,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00266,UG,BSc Mathematics,Male,Muslim,1,General,63.7,377891,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00008,PG,MSc Mathematics,Male,Muslim,1,General,82.2,534183,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00255,PG,MA English,Female,Muslim,1,General,85,334059,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00387,UG,BCom Finance,Female,Hindu,0,ST,57.9,263513,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00434,UG,BSc Physics,Male,Christian,1,General,81.7,288226,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00276,UG,BA English,Male,Hindu,0,OBC,73.8,172110,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00208,PG,MCom Finance,Male,Muslim,1,General,70.2,648750,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00103,PG,MA English,Female,Christian,1,General,81.6,613619,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00079,UG,BSc Chemistry,Male,Hindu,0,ST,58.2,181450,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00110,UG,BCom Finance,Female,Christian,1,General,58.5,647561,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00212,PG,MCom Finance,Male,Hindu,0,SC,78.5,404970,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00086,UG,BSc Mathematics,Male,Hindu,0,ST,78,585274,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00442,PG,MA English,Male,Hindu,0,ST,83.1,501311,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00233,PG,MA English,Female,Hindu,0,General,64.9,618558,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00157,UG,BSc Physics,Male,Muslim,1,General,86.9,342138,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00029,UG,BCom Finance,Male,Hindu,0,OBC,65.5,687557,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00341,UG,BCom Finance,Male,Hindu,0,OBC,75.7,372828,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00207,PG,MSc Mathematics,Female,Muslim,1,General,73.2,677619,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00032,PG,MA English,Female,Hindu,0,General,79,105566,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00077,UG,BSc Physics,Male,Hindu,0,General,72.8,654384,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00036,UG,BA Economics,Male,Christian,1,General,69.9,150451,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00358,PG,MCom Finance,Male,Hindu,0,General,79.4,137974,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00248,UG,BA English,Female,Hindu,0,OBC,70.6,281945,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00044,UG,BCom Finance,Female,Hindu,0,OBC,73.4,178734,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00049,UG,BCom Finance,Female,Hindu,0,OBC,77.2,398953,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00022,UG,BSc Physics,Male,Hindu,0,General,68.6,388772,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00201,PG,MCom Finance,Male,Hindu,0,SC,69,512721,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00077,UG,BSc Physics,Male,Hindu,0,General,72.8,654384,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00412,PG,MSc Mathematics,Male,Muslim,1,General,70.3,446001,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00273,UG,BSc Chemistry,Female,Hindu,0,General,75.3,681004,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00191,UG,BSc Mathematics,Female,Muslim,1,General,76.5,530456,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00268,UG,BA Economics,Female,Christian,1,General,53.4,451831,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00374,UG,BA Economics,Female,Muslim,1,General,60.4,626169,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00237,PG,MA English,Female,Hindu,0,SC,78.9,372485,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00147,PG,MCom Finance,Male,Hindu,0,SC,83.8,464774,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00336,UG,BSc Physics,Female,Muslim,1,General,60.7,65294,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00359,PG,MSc Mathematics,Male,Christian,1,General,64.1,253497,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00216,UG,BSc Mathematics,Female,Hindu,0,OBC,62.9,258754,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00307,PG,MA English,Female,Muslim,1,General,72.5,205172,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00402,UG,BSc Chemistry,Female,Hindu,0,OBC,72.1,591169,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00166,PG,MSc Mathematics,Female,Muslim,1,General,72.5,357909,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00405,UG,BA Economics,Male,Hindu,0,OBC,68.9,617560,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00059,UG,BA Economics,Male,Muslim,1,General,67.3,650153,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00238,UG,BCom Finance,Male,Muslim,1,General,79.1,232309,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00399,PG,MCom Finance,Male,Hindu,0,OBC,64.1,664891,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00326,PG,MA English,Female,Muslim,1,General,88,245506,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00258,UG,BSc Physics,Male,Hindu,0,General,88.7,106953,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00305,UG,BSc Mathematics,Female,Muslim,1,General,85.4,454541,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00069,UG,BSc Physics,Female,Hindu,0,General,73.2,193336,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00094,UG,BSc Chemistry,Male,Hindu,0,SC,68.7,206227,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00010,UG,BSc Chemistry,Male,Christian,1,General,84.2,233337,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00147,PG,MCom Finance,Male,Hindu,0,SC,83.8,464774,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00297,UG,BSc Mathematics,Female,Hindu,0,General,57,388167,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00027,UG,BSc Physics,Male,Hindu,0,ST,68.8,270851,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00173,UG,BCom Finance,Male,Hindu,0,OBC,68.1,112513,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00165,PG,MSc Mathematics,Female,Muslim,1,General,75.3,524631,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00157,UG,BSc Physics,Male,Muslim,1,General,86.9,342138,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00269,UG,BA Economics,Male,Muslim,1,General,64.5,340899,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00187,PG,MA English,Female,Muslim,1,General,71.1,585646,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00298,UG,BSc Physics,Female,Hindu,0,OBC,73,213040,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00445,PG,MCom Finance,Female,Christian,1,General,69.2,104477,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00247,PG,MCom Finance,Male,Muslim,1,General,60.6,294338,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00343,UG,BA Economics,Female,Christian,1,General,70.2,316944,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00445,PG,MCom Finance,Female,Christian,1,General,69.2,104477,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00142,PG,MA English,Female,Hindu,0,ST,75,641007,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00089,PG,MCom Finance,Male,Hindu,0,OBC,75.2,381645,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00099,UG,BA English,Male,Hindu,0,ST,80.7,462026,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00350,PG,MA English,Male,Hindu,0,General,88,353867,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00041,PG,MCom Finance,Female,Christian,1,General,84.5,98625,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00199,UG,BA English,Male,Hindu,0,OBC,61,158815,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00114,UG,BCom Finance,Female,Hindu,0,SC,72.2,386591,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00159,PG,MA English,Male,Christian,1,General,58.1,50169,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00419,PG,MSc Mathematics,Male,Muslim,1,General,77.1,685132,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00121,PG,MA English,Female,Hindu,0,ST,61.6,289824,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00250,UG,BA Economics,Male,Hindu,0,SC,64.6,123390,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00384,UG,BSc Mathematics,Male,Muslim,1,General,79.6,458998,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00229,PG,MCom Finance,Female,Muslim,1,General,76.7,308526,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00360,UG,BSc Physics,Male,Muslim,1,General,78.2,367784,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00395,UG,BSc Physics,Male,Hindu,0,General,71.2,247464,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00012,PG,MA English,Male,Hindu,0,General,75,67137,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00194,UG,BA English,Female,Muslim,1,General,77.3,131573,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00312,UG,BSc Mathematics,Male,Hindu,0,OBC,75.8,492276,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00052,UG,BSc Mathematics,Male,Hindu,0,SC,64.8,625461,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00239,PG,MA English,Male,Hindu,0,General,71.6,321660,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00369,UG,BA English,Male,Hindu,0,OBC,53.5,598571,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00435,PG,MSc Mathematics,Female,Hindu,0,General,90,219218,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00111,UG,BSc Mathematics,Male,Hindu,0,OBC,69.9,190897,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00064,UG,BCom Finance,Female,Muslim,1,General,68.9,518934,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00289,UG,BSc Mathematics,Female,Hindu,0,OBC,76.2,312201,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00257,UG,BSc Chemistry,Female,Hindu,0,ST,82.9,142656,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00008,PG,MSc Mathematics,Male,Muslim,1,General,82.2,534183,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00077,UG,BSc Physics,Male,Hindu,0,General,72.8,654384,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00435,PG,MSc Mathematics,Female,Hindu,0,General,90,219218,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00322,PG,MSc Mathematics,Female,Hindu,0,OBC,76.2,396086,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00190,PG,MA English,Female,Hindu,0,OBC,76.3,350993,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00346,PG,MA English,Female,Muslim,1,General,72.5,461455,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00283,UG,BCom Finance,Male,Muslim,1,General,56.5,152103,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00146,UG,BSc Chemistry,Female,Muslim,1,General,69.4,291368,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00080,UG,BA English,Female,Hindu,0,OBC,83.3,49612,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00042,UG,BCom Finance,Male,Hindu,0,General,72.7,319674,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00209,PG,MCom Finance,Female,Hindu,0,OBC,76.8,531577,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00265,UG,BA Economics,Male,Hindu,0,General,64,629083,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00087,PG,MCom Finance,Male,Hindu,0,SC,68.4,574131,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00189,PG,MCom Finance,Male,Muslim,1,General,72,506797,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00359,PG,MSc Mathematics,Male,Christian,1,General,64.1,253497,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00230,UG,BSc Physics,Female,Hindu,0,ST,56.6,639935,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00352,UG,BSc Chemistry,Female,Hindu,0,General,61.3,626137,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00121,PG,MA English,Female,Hindu,0,ST,61.6,289824,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00124,UG,BA Economics,Female,Hindu,0,OBC,65,549471,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00061,UG,BCom Finance,Female,Christian,1,General,69,319073,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00100,UG,BSc Physics,Male,Hindu,0,SC,63.2,670284,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00214,UG,BSc Chemistry,Male,Christian,1,General,64.2,690166,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00190,PG,MA English,Female,Hindu,0,OBC,76.3,350993,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00099,UG,BA English,Male,Hindu,0,ST,80.7,462026,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00427,UG,BA English,Male,Hindu,0,OBC,69.2,467062,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00216,UG,BSc Mathematics,Female,Hindu,0,OBC,62.9,258754,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00337,PG,MCom Finance,Male,Hindu,0,ST,87.3,322540,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00244,PG,MSc Mathematics,Female,Muslim,1,General,70.3,106629,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00365,UG,BSc Mathematics,Male,Hindu,0,OBC,64.9,555274,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00321,UG,BA Economics,Male,Hindu,0,SC,57.1,210778,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00073,PG,MA English,Female,Hindu,0,General,81.6,134811,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00033,PG,MA English,Male,Hindu,0,SC,77,257660,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00055,UG,BCom Finance,Female,Hindu,0,OBC,70.9,208113,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00360,UG,BSc Physics,Male,Muslim,1,General,78.2,367784,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00022,UG,BSc Physics,Male,Hindu,0,General,68.6,388772,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00305,UG,BSc Mathematics,Female,Muslim,1,General,85.4,454541,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00044,UG,BCom Finance,Female,Hindu,0,OBC,73.4,178734,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00290,PG,MCom Finance,Female,Hindu,0,OBC,65.5,575847,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00049,UG,BCom Finance,Female,Hindu,0,OBC,77.2,398953,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00264,PG,MSc Mathematics,Female,Hindu,0,OBC,70.4,234642,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00378,PG,MA English,Female,Hindu,0,OBC,95,553670,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00428,UG,BCom Finance,Female,Hindu,0,General,82.3,671512,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00064,UG,BCom Finance,Female,Muslim,1,General,68.9,518934,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00096,UG,BSc Chemistry,Female,Hindu,0,OBC,63.8,498958,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00443,UG,BA Economics,Male,Hindu,0,OBC,50,248814,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00335,UG,BSc Mathematics,Male,Hindu,0,SC,81.1,62618,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00285,PG,MSc Mathematics,Male,Hindu,0,SC,74.2,528966,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00120,UG,BSc Physics,Male,Muslim,1,General,67.1,76197,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00104,UG,BSc Mathematics,Female,Hindu,0,SC,89,449341,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00201,PG,MCom Finance,Male,Hindu,0,SC,69,512721,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00240,UG,BA Economics,Female,Muslim,1,General,59.7,472027,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00113,PG,MSc Mathematics,Male,Muslim,1,General,72,65086,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00009,UG,BA English,Female,Hindu,0,General,63.5,87861,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00352,UG,BSc Chemistry,Female,Hindu,0,General,61.3,626137,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00384,UG,BSc Mathematics,Male,Muslim,1,General,79.6,458998,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00356,PG,MCom Finance,Female,Hindu,0,General,80.1,119699,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00037,UG,BSc Physics,Male,Christian,1,General,76.5,576450,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00092,UG,BSc Physics,Male,Hindu,0,OBC,63.3,87969,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00038,UG,BCom Finance,Male,Hindu,0,OBC,79.4,514412,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00416,UG,BSc Physics,Female,Hindu,0,OBC,80.2,305668,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00260,UG,BSc Physics,Male,Christian,1,General,71.6,518425,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00189,PG,MCom Finance,Male,Muslim,1,General,72,506797,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00315,UG,BSc Mathematics,Female,Hindu,0,SC,61.6,472663,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00212,PG,MCom Finance,Male,Hindu,0,SC,78.5,404970,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00116,UG,BSc Mathematics,Female,Christian,1,General,72.9,637517,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00382,UG,BA English,Male,Hindu,0,General,67.6,396462,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00162,UG,BA Economics,Female,Hindu,0,General,82.1,128973,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00438,UG,BA English,Male,Christian,1,General,70.6,393654,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00288,UG,BSc Mathematics,Male,Hindu,0,General,73.3,218710,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00331,UG,BSc Chemistry,Male,Hindu,0,OBC,74.3,227306,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00263,PG,MCom Finance,Female,Hindu,0,SC,65.8,349727,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00318,UG,BSc Mathematics,Male,Hindu,0,General,80,536486,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00017,UG,BSc Chemistry,Female,Hindu,0,OBC,71.1,337632,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00011,UG,BA English,Male,Muslim,1,General,73.3,348768,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00140,UG,BA Economics,Male,Hindu,0,General,65.2,604576,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00293,UG,BA English,Female,Muslim,1,General,59.5,662094,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00118,PG,MCom Finance,Male,Hindu,0,General,55.6,112901,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00047,UG,BA Economics,Male,Hindu,0,OBC,86.5,112516,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00381,UG,BA Economics,Male,Hindu,0,General,57.9,269017,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00236,UG,BA English,Female,Muslim,1,General,69.3,677673,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00073,PG,MA English,Female,Hindu,0,General,81.6,134811,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00223,PG,MCom Finance,Male,Muslim,1,General,86.4,608041,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00193,UG,BSc Chemistry,Male,Muslim,1,General,84.3,397127,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00322,PG,MSc Mathematics,Female,Hindu,0,OBC,76.2,396086,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00220,PG,MSc Mathematics,Male,Hindu,0,OBC,76,471198,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00135,PG,MA English,Male,Christian,1,General,72.7,575482,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00203,UG,BA Economics,Female,Christian,1,General,86.1,392583,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00421,PG,MCom Finance,Female,Christian,1,General,62.3,577001,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00051,UG,BA English,Female,Hindu,0,General,59.3,142889,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00135,PG,MA English,Male,Christian,1,General,72.7,575482,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00274,UG,BSc Physics,Female,Hindu,0,General,72.6,79314,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00367,UG,BA English,Female,Christian,1,General,77.6,261727,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00267,PG,MCom Finance,Male,Hindu,0,SC,76,327586,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00065,UG,BA English,Female,Muslim,1,General,57.5,481411,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00018,UG,BSc Physics,Female,Hindu,0,General,66.2,640363,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00138,PG,MCom Finance,Male,Muslim,1,General,85.5,669044,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00292,UG,BSc Physics,Female,Muslim,1,General,69.9,122627,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00372,UG,BA Economics,Female,Muslim,1,General,70.9,665515,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00093,UG,BSc Chemistry,Female,Christian,1,General,74.9,167196,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00206,PG,MA English,Female,Hindu,0,OBC,85.4,635509,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00127,UG,BSc Physics,Female,Hindu,0,SC,90,74937,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00027,UG,BSc Physics,Male,Hindu,0,ST,68.8,270851,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00369,UG,BA English,Male,Hindu,0,OBC,53.5,598571,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00308,UG,BA Economics,Female,Hindu,0,OBC,67.6,680890,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00413,PG,MSc Mathematics,Male,Hindu,0,OBC,67,519245,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00169,UG,BA English,Male,Christian,1,General,73.5,639446,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00437,PG,MA English,Male,Muslim,1,General,70.8,301596,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00430,UG,BCom Finance,Male,Hindu,0,OBC,82.4,90586,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00106,UG,BA English,Female,Muslim,1,General,68.8,483329,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00268,UG,BA Economics,Female,Christian,1,General,53.4,451831,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00053,UG,BSc Physics,Female,Muslim,1,General,81,448683,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00425,PG,MCom Finance,Male,Muslim,1,General,77.3,450946,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00212,PG,MCom Finance,Male,Hindu,0,SC,78.5,404970,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00244,PG,MSc Mathematics,Female,Muslim,1,General,70.3,106629,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00204,UG,BSc Physics,Female,Hindu,0,OBC,71.4,327120,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00316,UG,BSc Chemistry,Female,Christian,1,General,62.1,497468,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00255,PG,MA English,Female,Muslim,1,General,85,334059,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00358,PG,MCom Finance,Male,Hindu,0,General,79.4,137974,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00211,UG,BSc Mathematics,Male,Hindu,0,OBC,58.8,527953,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00094,UG,BSc Chemistry,Male,Hindu,0,SC,68.7,206227,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00219,UG,BSc Physics,Male,Muslim,1,General,73.6,672884,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00397,UG,BA Economics,Male,Christian,1,General,76.6,337750,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00176,PG,MCom Finance,Male,Muslim,1,General,70.6,86101,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00396,UG,BA Economics,Female,Hindu,0,SC,63.1,661858,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00350,PG,MA English,Male,Hindu,0,General,88,353867,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00315,UG,BSc Mathematics,Female,Hindu,0,SC,61.6,472663,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00167,PG,MCom Finance,Female,Hindu,0,OBC,96.9,346608,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00327,PG,MSc Mathematics,Male,Christian,1,General,78.6,198248,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00017,UG,BSc Chemistry,Female,Hindu,0,OBC,71.1,337632,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00415,UG,BSc Chemistry,Female,Hindu,0,SC,61.4,238306,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00017,UG,BSc Chemistry,Female,Hindu,0,OBC,71.1,337632,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00256,UG,BSc Mathematics,Male,Christian,1,General,67.7,319820,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00055,UG,BCom Finance,Female,Hindu,0,OBC,70.9,208113,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00430,UG,BCom Finance,Male,Hindu,0,OBC,82.4,90586,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00102,UG,BSc Physics,Male,Hindu,0,OBC,85.7,407781,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00074,UG,BA Economics,Female,Muslim,1,General,81.3,563654,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00139,PG,MA English,Female,Christian,1,General,74.8,676741,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00229,PG,MCom Finance,Female,Muslim,1,General,76.7,308526,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00139,PG,MA English,Female,Christian,1,General,74.8,676741,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00185,UG,BSc Chemistry,Female,Hindu,0,SC,54.5,641304,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00249,UG,BCom Finance,Male,Hindu,0,General,75.3,121183,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00255,PG,MA English,Female,Muslim,1,General,85,334059,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00066,UG,BA Economics,Female,Hindu,0,OBC,62.9,429226,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00404,UG,BSc Physics,Female,Hindu,0,OBC,82,542813,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00284,UG,BA English,Male,Muslim,1,General,78.4,384111,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00111,UG,BSc Mathematics,Male,Hindu,0,OBC,69.9,190897,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00272,UG,BA English,Female,Christian,1,General,50.6,481547,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00282,PG,MSc Mathematics,Male,Muslim,1,General,65.6,447005,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00154,UG,BCom Finance,Female,Muslim,1,General,86.3,248268,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00026,UG,BA Economics,Female,Hindu,0,SC,77.8,510411,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00338,UG,BCom Finance,Female,Muslim,1,General,78.8,343677,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00139,PG,MA English,Female,Christian,1,General,74.8,676741,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00443,UG,BA Economics,Male,Hindu,0,OBC,50,248814,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00072,UG,BSc Mathematics,Male,Hindu,0,General,78.6,84194,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00436,UG,BSc Chemistry,Male,Christian,1,General,64.2,483500,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00212,PG,MCom Finance,Male,Hindu,0,SC,78.5,404970,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00054,UG,BSc Mathematics,Male,Hindu,0,OBC,57.3,186874,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00377,PG,MCom Finance,Male,Muslim,1,General,84,414072,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00258,UG,BSc Physics,Male,Hindu,0,General,88.7,106953,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00228,UG,BSc Mathematics,Female,Hindu,0,SC,73.3,600402,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00235,UG,BA English,Male,Hindu,0,General,59.2,101036,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00238,UG,BCom Finance,Male,Muslim,1,General,79.1,232309,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00433,UG,BA Economics,Male,Hindu,0,General,99,480836,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00439,UG,BA Economics,Male,Hindu,0,General,82.9,371751,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00313,PG,MCom Finance,Female,Hindu,0,OBC,84.7,305463,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00107,UG,BSc Mathematics,Male,Hindu,0,SC,75.9,500935,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00226,UG,BA English,Female,Hindu,0,ST,71.8,561851,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00408,UG,BA English,Male,Hindu,0,SC,54.8,600297,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00109,UG,BSc Mathematics,Female,Hindu,0,OBC,69.4,347341,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00444,UG,BA English,Female,Hindu,0,SC,70.1,486623,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00343,UG,BA Economics,Female,Christian,1,General,70.2,316944,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00098,UG,BSc Mathematics,Female,Muslim,1,General,65.2,439321,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00423,UG,BA Economics,Female,Muslim,1,General,60.5,113988,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00182,UG,BSc Physics,Male,Hindu,0,OBC,83,468355,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00090,PG,MA English,Female,Christian,1,General,74.4,400967,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00137,UG,BA English,Male,Hindu,0,ST,71.9,72331,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00153,UG,BCom Finance,Female,Muslim,1,General,74.7,147359,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00323,PG,MSc Mathematics,Female,Muslim,1,General,78.8,171719,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00109,UG,BSc Mathematics,Female,Hindu,0,OBC,69.4,347341,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00340,UG,BSc Chemistry,Female,Hindu,0,OBC,72.6,187310,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00154,UG,BCom Finance,Female,Muslim,1,General,86.3,248268,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00446,UG,BSc Physics,Female,Christian,1,General,56.8,337873,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00414,PG,MA English,Male,Hindu,0,OBC,72.3,599633,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00094,UG,BSc Chemistry,Male,Hindu,0,SC,68.7,206227,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00040,UG,BSc Chemistry,Female,Hindu,0,General,62.9,593040,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00167,PG,MCom Finance,Female,Hindu,0,OBC,96.9,346608,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00124,UG,BA Economics,Female,Hindu,0,OBC,65,549471,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00013,UG,BA Economics,Female,Hindu,0,SC,67.5,66749,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00172,UG,BA English,Female,Christian,1,General,70.8,556533,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00026,UG,BA Economics,Female,Hindu,0,SC,77.8,510411,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00378,PG,MA English,Female,Hindu,0,OBC,95,553670,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00327,PG,MSc Mathematics,Male,Christian,1,General,78.6,198248,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00152,PG,MA English,Female,Hindu,0,General,83.4,516560,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00101,PG,MCom Finance,Female,Hindu,0,SC,92,51216,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00107,UG,BSc Mathematics,Male,Hindu,0,SC,75.9,500935,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00098,UG,BSc Mathematics,Female,Muslim,1,General,65.2,439321,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00286,UG,BA English,Male,Hindu,0,SC,81.3,557257,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00422,UG,BSc Physics,Female,Christian,1,General,97.8,97815,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00237,PG,MA English,Female,Hindu,0,SC,78.9,372485,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00297,UG,BSc Mathematics,Female,Hindu,0,General,57,388167,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00255,PG,MA English,Female,Muslim,1,General,85,334059,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00176,PG,MCom Finance,Male,Muslim,1,General,70.6,86101,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00018,UG,BSc Physics,Female,Hindu,0,General,66.2,640363,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00053,UG,BSc Physics,Female,Muslim,1,General,81,448683,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00058,UG,BSc Chemistry,Male,Hindu,0,General,69.6,634534,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00047,UG,BA Economics,Male,Hindu,0,OBC,86.5,112516,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00127,UG,BSc Physics,Female,Hindu,0,SC,90,74937,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00287,UG,BSc Chemistry,Male,Hindu,0,ST,91.5,550320,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00015,UG,BA Economics,Male,Hindu,0,OBC,65.1,259465,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00160,UG,BA English,Female,Hindu,0,General,82.1,54410,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00152,PG,MA English,Female,Hindu,0,General,83.4,516560,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00178,UG,BSc Physics,Female,Hindu,0,OBC,70.1,296901,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00420,UG,BSc Chemistry,Female,Hindu,0,OBC,63.7,256689,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00128,UG,BSc Chemistry,Male,Hindu,0,SC,66.1,564814,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00330,UG,BA English,Female,Hindu,0,SC,90,46195,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00334,UG,BSc Physics,Male,Hindu,0,ST,78.7,429686,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00375,UG,BSc Chemistry,Female,Muslim,1,General,78.2,338061,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00173,UG,BCom Finance,Male,Hindu,0,OBC,68.1,112513,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00224,UG,BSc Chemistry,Female,Muslim,1,General,81.6,584876,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00381,UG,BA Economics,Male,Hindu,0,General,57.9,269017,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00080,UG,BA English,Female,Hindu,0,OBC,83.3,49612,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00081,UG,BA Economics,Male,Muslim,1,General,69.8,326119,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00362,UG,BSc Chemistry,Male,Muslim,1,General,75,79948,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00058,UG,BSc Chemistry,Male,Hindu,0,General,69.6,634534,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00023,UG,BCom Finance,Male,Christian,1,General,64.9,656011,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00072,UG,BSc Mathematics,Male,Hindu,0,General,78.6,84194,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00219,UG,BSc Physics,Male,Muslim,1,General,73.6,672884,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00161,UG,BA English,Male,Muslim,1,General,66.7,412022,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00178,UG,BSc Physics,Female,Hindu,0,OBC,70.1,296901,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00136,UG,BA Economics,Male,Hindu,0,OBC,59.5,220018,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00349,PG,MSc Mathematics,Female,Christian,1,General,77.6,132610,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00158,PG,MA English,Male,Hindu,0,SC,89.5,322714,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00315,UG,BSc Mathematics,Female,Hindu,0,SC,61.6,472663,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00308,UG,BA Economics,Female,Hindu,0,OBC,67.6,680890,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00266,UG,BSc Mathematics,Male,Muslim,1,General,63.7,377891,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00141,UG,BCom Finance,Female,Muslim,1,General,79.9,259346,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00354,UG,BSc Mathematics,Male,Hindu,0,General,61.9,343381,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00071,PG,MCom Finance,Female,Hindu,0,OBC,77.4,328274,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00413,PG,MSc Mathematics,Male,Hindu,0,OBC,67,519245,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00202,PG,MSc Mathematics,Female,Hindu,0,OBC,80,207367,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00062,UG,BCom Finance,Female,Hindu,0,OBC,76.5,333359,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00114,UG,BCom Finance,Female,Hindu,0,SC,72.2,386591,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00317,UG,BA Economics,Male,Christian,1,General,81.6,597506,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00079,UG,BSc Chemistry,Male,Hindu,0,ST,58.2,181450,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00090,PG,MA English,Female,Christian,1,General,74.4,400967,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00223,PG,MCom Finance,Male,Muslim,1,General,86.4,608041,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00194,UG,BA English,Female,Muslim,1,General,77.3,131573,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00194,UG,BA English,Female,Muslim,1,General,77.3,131573,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00426,UG,BA English,Male,Christian,1,General,72.7,495415,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00392,PG,MA English,Male,Hindu,0,SC,82.9,495039,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00244,PG,MSc Mathematics,Female,Muslim,1,General,70.3,106629,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00410,UG,BSc Physics,Male,Christian,1,General,63.1,346560,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00283,UG,BCom Finance,Male,Muslim,1,General,56.5,152103,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00444,UG,BA English,Female,Hindu,0,SC,70.1,486623,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00231,UG,BA Economics,Male,Hindu,0,OBC,71.6,402435,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00160,UG,BA English,Female,Hindu,0,General,82.1,54410,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00046,UG,BA English,Male,Hindu,0,SC,66,156948,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00448,UG,BA English,Female,Hindu,0,OBC,70.1,245967,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00409,UG,BSc Chemistry,Female,Hindu,0,SC,70.2,319892,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00170,UG,BSc Mathematics,Female,Hindu,0,OBC,58.8,509176,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00408,UG,BA English,Male,Hindu,0,SC,54.8,600297,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00306,UG,BSc Mathematics,Male,Hindu,0,OBC,70.8,93029,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00183,UG,BSc Mathematics,Female,Muslim,1,General,58.3,574146,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00006,UG,BA English,Male,Hindu,0,General,85.5,563747,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00442,PG,MA English,Male,Hindu,0,ST,83.1,501311,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00078,UG,BA Economics,Female,Muslim,1,General,68.9,369273,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00169,UG,BA English,Male,Christian,1,General,73.5,639446,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00228,UG,BSc Mathematics,Female,Hindu,0,SC,73.3,600402,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00031,PG,MCom Finance,Female,Christian,1,General,72.5,604297,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00037,UG,BSc Physics,Male,Christian,1,General,76.5,576450,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00201,PG,MCom Finance,Male,Hindu,0,SC,69,512721,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00380,UG,BSc Mathematics,Male,Muslim,1,General,70.2,102629,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00046,UG,BA English,Male,Hindu,0,SC,66,156948,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00330,UG,BA English,Female,Hindu,0,SC,90,46195,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00150,UG,BSc Chemistry,Male,Muslim,1,General,74.4,184826,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00077,UG,BSc Physics,Male,Hindu,0,General,72.8,654384,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00129,UG,BCom Finance,Male,Hindu,0,General,53.1,40588,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00118,PG,MCom Finance,Male,Hindu,0,General,55.6,112901,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00310,UG,BSc Physics,Male,Muslim,1,General,74.9,478254,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00401,UG,BSc Mathematics,Female,Hindu,0,General,68.6,242679,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00274,UG,BSc Physics,Female,Hindu,0,General,72.6,79314,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00316,UG,BSc Chemistry,Female,Christian,1,General,62.1,497468,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00287,UG,BSc Chemistry,Male,Hindu,0,ST,91.5,550320,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00127,UG,BSc Physics,Female,Hindu,0,SC,90,74937,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00239,PG,MA English,Male,Hindu,0,General,71.6,321660,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00182,UG,BSc Physics,Male,Hindu,0,OBC,83,468355,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00124,UG,BA Economics,Female,Hindu,0,OBC,65,549471,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00236,UG,BA English,Female,Muslim,1,General,69.3,677673,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00139,PG,MA English,Female,Christian,1,General,74.8,676741,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00136,UG,BA Economics,Male,Hindu,0,OBC,59.5,220018,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00031,PG,MCom Finance,Female,Christian,1,General,72.5,604297,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00252,PG,MSc Mathematics,Female,Hindu,0,General,73.7,68394,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00100,UG,BSc Physics,Male,Hindu,0,SC,63.2,670284,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00135,PG,MA English,Male,Christian,1,General,72.7,575482,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00287,UG,BSc Chemistry,Male,Hindu,0,ST,91.5,550320,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00308,UG,BA Economics,Female,Hindu,0,OBC,67.6,680890,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00020,UG,BSc Mathematics,Male,Muslim,1,General,60.4,665382,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00195,UG,BCom Finance,Female,Hindu,0,OBC,74,647534,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00258,UG,BSc Physics,Male,Hindu,0,General,88.7,106953,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00164,UG,BSc Chemistry,Female,Christian,1,General,62.4,389973,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00406,UG,BSc Mathematics,Female,Hindu,0,General,57,632863,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00222,UG,BSc Mathematics,Female,Hindu,0,OBC,74,558633,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00367,UG,BA English,Female,Christian,1,General,77.6,261727,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00161,UG,BA English,Male,Muslim,1,General,66.7,412022,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00108,PG,MSc Mathematics,Female,Hindu,0,General,77.3,365865,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00243,UG,BCom Finance,Male,Christian,1,General,64.7,475369,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00129,UG,BCom Finance,Male,Hindu,0,General,53.1,40588,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00187,PG,MA English,Female,Muslim,1,General,71.1,585646,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00056,UG,BSc Mathematics,Male,Muslim,1,General,67.8,240137,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00032,PG,MA English,Female,Hindu,0,General,79,105566,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00067,UG,BA Economics,Male,Hindu,0,OBC,56,401241,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00449,PG,MCom Finance,Male,Muslim,1,General,85,351207,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00271,UG,BSc Mathematics,Male,Christian,1,General,65,108250,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00411,UG,BA Economics,Male,Hindu,0,General,71.9,476620,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00300,PG,MA English,Male,Christian,1,General,99,473954,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00122,UG,BCom Finance,Male,Hindu,0,OBC,69.4,382961,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00419,PG,MSc Mathematics,Male,Muslim,1,General,77.1,685132,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00164,UG,BSc Chemistry,Female,Christian,1,General,62.4,389973,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00076,UG,BSc Chemistry,Female,Hindu,0,General,78.3,648109,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00319,PG,MCom Finance,Male,Hindu,0,OBC,63.2,457167,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00442,PG,MA English,Male,Hindu,0,ST,83.1,501311,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00046,UG,BA English,Male,Hindu,0,SC,66,156948,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00235,UG,BA English,Male,Hindu,0,General,59.2,101036,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00013,UG,BA Economics,Female,Hindu,0,SC,67.5,66749,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00025,PG,MSc Mathematics,Female,Muslim,1,General,70.5,138676,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00124,UG,BA Economics,Female,Hindu,0,OBC,65,549471,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00014,UG,BA Economics,Male,Muslim,1,General,80,56792,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00316,UG,BSc Chemistry,Female,Christian,1,General,62.1,497468,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00157,UG,BSc Physics,Male,Muslim,1,General,86.9,342138,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00408,UG,BA English,Male,Hindu,0,SC,54.8,600297,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00380,UG,BSc Mathematics,Male,Muslim,1,General,70.2,102629,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00280,UG,BSc Mathematics,Male,Christian,1,General,59.7,307803,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00032,PG,MA English,Female,Hindu,0,General,79,105566,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00330,UG,BA English,Female,Hindu,0,SC,90,46195,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00110,UG,BCom Finance,Female,Christian,1,General,58.5,647561,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00085,UG,BSc Physics,Male,Hindu,0,General,58,674204,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00266,UG,BSc Mathematics,Male,Muslim,1,General,63.7,377891,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00358,PG,MCom Finance,Male,Hindu,0,General,79.4,137974,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00019,UG,BCom Finance,Female,Christian,1,General,69.8,251248,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00133,PG,MSc Mathematics,Male,Hindu,0,SC,58.1,385478,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00153,UG,BCom Finance,Female,Muslim,1,General,74.7,147359,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00017,UG,BSc Chemistry,Female,Hindu,0,OBC,71.1,337632,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00023,UG,BCom Finance,Male,Christian,1,General,64.9,656011,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00095,PG,MSc Mathematics,Male,Hindu,0,OBC,77.5,599365,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00158,PG,MA English,Male,Hindu,0,SC,89.5,322714,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00016,UG,BA English,Male,Hindu,0,OBC,80.3,663617,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00078,UG,BA Economics,Female,Muslim,1,General,68.9,369273,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00388,PG,MCom Finance,Male,Hindu,0,ST,72.7,279572,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00200,UG,BSc Mathematics,Female,Hindu,0,OBC,86.3,311254,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00346,PG,MA English,Female,Muslim,1,General,72.5,461455,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00254,PG,MCom Finance,Male,Muslim,1,General,80.7,421371,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00211,UG,BSc Mathematics,Male,Hindu,0,OBC,58.8,527953,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00171,UG,BCom Finance,Male,Hindu,0,General,65.9,361104,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00254,PG,MCom Finance,Male,Muslim,1,General,80.7,421371,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00103,PG,MA English,Female,Christian,1,General,81.6,613619,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00081,UG,BA Economics,Male,Muslim,1,General,69.8,326119,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00060,UG,BSc Physics,Male,Christian,1,General,87.4,505749,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00351,UG,BCom Finance,Female,Muslim,1,General,70.6,67099,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00377,PG,MCom Finance,Male,Muslim,1,General,84,414072,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00151,UG,BSc Physics,Female,Muslim,1,General,64.6,619894,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00322,PG,MSc Mathematics,Female,Hindu,0,OBC,76.2,396086,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00066,UG,BA Economics,Female,Hindu,0,OBC,62.9,429226,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00097,UG,BSc Physics,Male,Christian,1,General,73.4,289446,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00163,PG,MCom Finance,Female,Hindu,0,OBC,76.1,547543,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00109,UG,BSc Mathematics,Female,Hindu,0,OBC,69.4,347341,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00395,UG,BSc Physics,Male,Hindu,0,General,71.2,247464,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00266,UG,BSc Mathematics,Male,Muslim,1,General,63.7,377891,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00258,UG,BSc Physics,Male,Hindu,0,General,88.7,106953,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00106,UG,BA English,Female,Muslim,1,General,68.8,483329,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00295,UG,BSc Mathematics,Female,Hindu,0,General,73.5,244336,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00092,UG,BSc Physics,Male,Hindu,0,OBC,63.3,87969,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00180,UG,BA Economics,Male,Hindu,0,General,75.4,573994,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00242,UG,BCom Finance,Male,Hindu,0,OBC,69.3,354758,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00319,PG,MCom Finance,Male,Hindu,0,OBC,63.2,457167,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00013,UG,BA Economics,Female,Hindu,0,SC,67.5,66749,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00178,UG,BSc Physics,Female,Hindu,0,OBC,70.1,296901,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00082,UG,BA English,Male,Hindu,0,OBC,70.2,356042,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00324,UG,BCom Finance,Male,Muslim,1,General,69,400396,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00054,UG,BSc Mathematics,Male,Hindu,0,OBC,57.3,186874,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00441,UG,BA English,Female,Hindu,0,OBC,65.2,54387,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00292,UG,BSc Physics,Female,Muslim,1,General,69.9,122627,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00077,UG,BSc Physics,Male,Hindu,0,General,72.8,654384,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00148,PG,MCom Finance,Female,Christian,1,General,87.3,612190,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00118,PG,MCom Finance,Male,Hindu,0,General,55.6,112901,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00440,UG,BA English,Male,Hindu,0,General,75.5,379438,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00181,UG,BSc Physics,Male,Hindu,0,General,63.3,552725,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00371,UG,BSc Physics,Male,Hindu,0,General,75.9,426846,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00352,UG,BSc Chemistry,Female,Hindu,0,General,61.3,626137,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00399,PG,MCom Finance,Male,Hindu,0,OBC,64.1,664891,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00308,UG,BA Economics,Female,Hindu,0,OBC,67.6,680890,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00256,UG,BSc Mathematics,Male,Christian,1,General,67.7,319820,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00205,UG,BSc Chemistry,Female,Christian,1,General,81.7,391762,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00412,PG,MSc Mathematics,Male,Muslim,1,General,70.3,446001,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00427,UG,BA English,Male,Hindu,0,OBC,69.2,467062,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00089,PG,MCom Finance,Male,Hindu,0,OBC,75.2,381645,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00260,UG,BSc Physics,Male,Christian,1,General,71.6,518425,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00171,UG,BCom Finance,Male,Hindu,0,General,65.9,361104,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00024,UG,BA Economics,Male,Hindu,0,SC,80.2,597530,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00033,PG,MA English,Male,Hindu,0,SC,77,257660,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00215,UG,BA Economics,Male,Hindu,0,General,70.1,566520,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00424,UG,BSc Chemistry,Male,Christian,1,General,64.5,490386,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00150,UG,BSc Chemistry,Male,Muslim,1,General,74.4,184826,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00144,UG,BSc Mathematics,Female,Hindu,0,General,64.2,109812,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00375,UG,BSc Chemistry,Female,Muslim,1,General,78.2,338061,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00292,UG,BSc Physics,Female,Muslim,1,General,69.9,122627,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00210,UG,BA Economics,Female,Christian,1,General,80,680070,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00030,PG,MSc Mathematics,Female,Hindu,0,General,77,519452,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00352,UG,BSc Chemistry,Female,Hindu,0,General,61.3,626137,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00226,UG,BA English,Female,Hindu,0,ST,71.8,561851,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00286,UG,BA English,Male,Hindu,0,SC,81.3,557257,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00365,UG,BSc Mathematics,Male,Hindu,0,OBC,64.9,555274,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00362,UG,BSc Chemistry,Male,Muslim,1,General,75,79948,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00174,UG,BA English,Female,Muslim,1,General,61.7,370302,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00332,UG,BCom Finance,Female,Hindu,0,General,70,212693,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00270,UG,BA Economics,Female,Hindu,0,SC,60.3,477592,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00202,PG,MSc Mathematics,Female,Hindu,0,OBC,80,207367,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00037,UG,BSc Physics,Male,Christian,1,General,76.5,576450,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00407,PG,MCom Finance,Female,Hindu,0,SC,77.1,253494,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00303,PG,MA English,Male,Hindu,0,SC,71.1,214453,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00277,PG,MSc Mathematics,Male,Hindu,0,OBC,84.9,275325,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00137,UG,BA English,Male,Hindu,0,ST,71.9,72331,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00028,PG,MA English,Male,Hindu,0,ST,59.7,292801,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00130,UG,BA Economics,Female,Hindu,0,SC,74.2,351417,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00240,UG,BA Economics,Female,Muslim,1,General,59.7,472027,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00072,UG,BSc Mathematics,Male,Hindu,0,General,78.6,84194,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00098,UG,BSc Mathematics,Female,Muslim,1,General,65.2,439321,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00088,UG,BSc Physics,Male,Christian,1,General,75.9,203313,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00154,UG,BCom Finance,Female,Muslim,1,General,86.3,248268,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00205,UG,BSc Chemistry,Female,Christian,1,General,81.7,391762,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00049,UG,BCom Finance,Female,Hindu,0,OBC,77.2,398953,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00393,UG,BA Economics,Female,Hindu,0,SC,57.4,685032,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00401,UG,BSc Mathematics,Female,Hindu,0,General,68.6,242679,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00059,UG,BA Economics,Male,Muslim,1,General,67.3,650153,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00441,UG,BA English,Female,Hindu,0,OBC,65.2,54387,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00023,UG,BCom Finance,Male,Christian,1,General,64.9,656011,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00230,UG,BSc Physics,Female,Hindu,0,ST,56.6,639935,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00294,UG,BSc Chemistry,Male,Hindu,0,OBC,64.6,685060,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00371,UG,BSc Physics,Male,Hindu,0,General,75.9,426846,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00023,UG,BCom Finance,Male,Christian,1,General,64.9,656011,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00333,UG,BSc Chemistry,Male,Hindu,0,ST,66.2,544434,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00303,PG,MA English,Male,Hindu,0,SC,71.1,214453,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00278,UG,BSc Physics,Male,Hindu,0,General,63.2,52149,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00170,UG,BSc Mathematics,Female,Hindu,0,OBC,58.8,509176,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00039,UG,BA Economics,Male,Muslim,1,General,63.8,376813,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00195,UG,BCom Finance,Female,Hindu,0,OBC,74,647534,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00234,PG,MCom Finance,Male,Muslim,1,General,80.5,294926,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00192,UG,BCom Finance,Female,Hindu,0,General,66.8,534696,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00223,PG,MCom Finance,Male,Muslim,1,General,86.4,608041,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00416,UG,BSc Physics,Female,Hindu,0,OBC,80.2,305668,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00289,UG,BSc Mathematics,Female,Hindu,0,OBC,76.2,312201,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00035,UG,BCom Finance,Male,Hindu,0,SC,72.1,677403,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00296,PG,MSc Mathematics,Female,Hindu,0,OBC,85.3,596438,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00104,UG,BSc Mathematics,Female,Hindu,0,SC,89,449341,1,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00154,UG,BCom Finance,Female,Muslim,1,General,86.3,248268,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00302,UG,BCom Finance,Female,Christian,1,General,70.7,533323,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00376,UG,BSc Chemistry,Male,Hindu,0,OBC,67.3,335226,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00389,PG,MSc Mathematics,Female,Muslim,1,General,78.1,641949,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00109,UG,BSc Mathematics,Female,Hindu,0,OBC,69.4,347341,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00056,UG,BSc Mathematics,Male,Muslim,1,General,67.8,240137,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00090,PG,MA English,Female,Christian,1,General,74.4,400967,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00243,UG,BCom Finance,Male,Christian,1,General,64.7,475369,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00063,UG,BSc Physics,Female,Christian,1,General,59.7,286090,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00206,PG,MA English,Female,Hindu,0,OBC,85.4,635509,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00197,PG,MSc Mathematics,Female,Hindu,0,ST,85,295827,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00261,PG,MCom Finance,Female,Hindu,0,SC,77.5,214770,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00114,UG,BCom Finance,Female,Hindu,0,SC,72.2,386591,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00426,UG,BA English,Male,Christian,1,General,72.7,495415,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00323,PG,MSc Mathematics,Female,Muslim,1,General,78.8,171719,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00073,PG,MA English,Female,Hindu,0,General,81.6,134811,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00310,UG,BSc Physics,Male,Muslim,1,General,74.9,478254,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00399,PG,MCom Finance,Male,Hindu,0,OBC,64.1,664891,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00336,UG,BSc Physics,Female,Muslim,1,General,60.7,65294,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00376,UG,BSc Chemistry,Male,Hindu,0,OBC,67.3,335226,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00192,UG,BCom Finance,Female,Hindu,0,General,66.8,534696,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00226,UG,BA English,Female,Hindu,0,ST,71.8,561851,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00310,UG,BSc Physics,Male,Muslim,1,General,74.9,478254,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00167,PG,MCom Finance,Female,Hindu,0,OBC,96.9,346608,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00433,UG,BA Economics,Male,Hindu,0,General,99,480836,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00080,UG,BA English,Female,Hindu,0,OBC,83.3,49612,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00064,UG,BCom Finance,Female,Muslim,1,General,68.9,518934,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00356,PG,MCom Finance,Female,Hindu,0,General,80.1,119699,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00148,PG,MCom Finance,Female,Christian,1,General,87.3,612190,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00383,PG,MSc Mathematics,Male,Christian,1,General,50,583956,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00116,UG,BSc Mathematics,Female,Christian,1,General,72.9,637517,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00309,UG,BA English,Female,Muslim,1,General,83.9,109213,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00145,UG,BCom Finance,Female,Hindu,0,General,82.9,239178,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00136,UG,BA Economics,Male,Hindu,0,OBC,59.5,220018,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00363,UG,BSc Chemistry,Female,Hindu,0,OBC,68.8,655553,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00411,UG,BA Economics,Male,Hindu,0,General,71.9,476620,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00120,UG,BSc Physics,Male,Muslim,1,General,67.1,76197,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00203,UG,BA Economics,Female,Christian,1,General,86.1,392583,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00270,UG,BA Economics,Female,Hindu,0,SC,60.3,477592,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00338,UG,BCom Finance,Female,Muslim,1,General,78.8,343677,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00328,PG,MCom Finance,Male,Muslim,1,General,66.9,603435,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00042,UG,BCom Finance,Male,Hindu,0,General,72.7,319674,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00179,UG,BCom Finance,Female,Hindu,0,SC,60.3,283135,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00400,UG,BSc Physics,Male,Hindu,0,ST,67.3,137709,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00230,UG,BSc Physics,Female,Hindu,0,ST,56.6,639935,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00147,PG,MCom Finance,Male,Hindu,0,SC,83.8,464774,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00276,UG,BA English,Male,Hindu,0,OBC,73.8,172110,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00015,UG,BA Economics,Male,Hindu,0,OBC,65.1,259465,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00024,UG,BA Economics,Male,Hindu,0,SC,80.2,597530,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00007,PG,MA English,Female,Muslim,1,General,76.3,671294,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00104,UG,BSc Mathematics,Female,Hindu,0,SC,89,449341,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00239,PG,MA English,Male,Hindu,0,General,71.6,321660,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00180,UG,BA Economics,Male,Hindu,0,General,75.4,573994,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00067,UG,BA Economics,Male,Hindu,0,OBC,56,401241,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00324,UG,BCom Finance,Male,Muslim,1,General,69,400396,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00386,UG,BA Economics,Female,Muslim,1,General,58.2,74863,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00205,UG,BSc Chemistry,Female,Christian,1,General,81.7,391762,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00128,UG,BSc Chemistry,Male,Hindu,0,SC,66.1,564814,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00068,UG,BSc Mathematics,Female,Hindu,0,SC,74.2,538821,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00076,UG,BSc Chemistry,Female,Hindu,0,General,78.3,648109,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00228,UG,BSc Mathematics,Female,Hindu,0,SC,73.3,600402,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00166,PG,MSc Mathematics,Female,Muslim,1,General,72.5,357909,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00065,UG,BA English,Female,Muslim,1,General,57.5,481411,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00405,UG,BA Economics,Male,Hindu,0,OBC,68.9,617560,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00107,UG,BSc Mathematics,Male,Hindu,0,SC,75.9,500935,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00102,UG,BSc Physics,Male,Hindu,0,OBC,85.7,407781,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00310,UG,BSc Physics,Male,Muslim,1,General,74.9,478254,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00409,UG,BSc Chemistry,Female,Hindu,0,SC,70.2,319892,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00214,UG,BSc Chemistry,Male,Christian,1,General,64.2,690166,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00021,UG,BCom Finance,Male,Hindu,0,General,71.8,266949,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00115,UG,BSc Mathematics,Male,Hindu,0,OBC,71,555652,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00081,UG,BA Economics,Male,Muslim,1,General,69.8,326119,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00325,UG,BA English,Female,Muslim,1,General,73.8,632960,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00086,UG,BSc Mathematics,Male,Hindu,0,ST,78,585274,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00352,UG,BSc Chemistry,Female,Hindu,0,General,61.3,626137,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00184,UG,BSc Chemistry,Female,Muslim,1,General,55.4,592355,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00428,UG,BCom Finance,Female,Hindu,0,General,82.3,671512,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00004,UG,BSc Mathematics,Female,Christian,1,General,75.9,465040,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00019,UG,BCom Finance,Female,Christian,1,General,69.8,251248,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00159,PG,MA English,Male,Christian,1,General,58.1,50169,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00410,UG,BSc Physics,Male,Christian,1,General,63.1,346560,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00317,UG,BA Economics,Male,Christian,1,General,81.6,597506,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00341,UG,BCom Finance,Male,Hindu,0,OBC,75.7,372828,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00018,UG,BSc Physics,Female,Hindu,0,General,66.2,640363,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00278,UG,BSc Physics,Male,Hindu,0,General,63.2,52149,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00391,PG,MCom Finance,Female,Hindu,0,General,65.6,193826,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00290,PG,MCom Finance,Female,Hindu,0,OBC,65.5,575847,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00074,UG,BA Economics,Female,Muslim,1,General,81.3,563654,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00290,PG,MCom Finance,Female,Hindu,0,OBC,65.5,575847,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00200,UG,BSc Mathematics,Female,Hindu,0,OBC,86.3,311254,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00215,UG,BA Economics,Male,Hindu,0,General,70.1,566520,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00449,PG,MCom Finance,Male,Muslim,1,General,85,351207,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00336,UG,BSc Physics,Female,Muslim,1,General,60.7,65294,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00366,UG,BSc Chemistry,Female,Hindu,0,SC,53.9,512740,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00060,UG,BSc Physics,Male,Christian,1,General,87.4,505749,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00244,PG,MSc Mathematics,Female,Muslim,1,General,70.3,106629,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00420,UG,BSc Chemistry,Female,Hindu,0,OBC,63.7,256689,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00346,PG,MA English,Female,Muslim,1,General,72.5,461455,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00410,UG,BSc Physics,Male,Christian,1,General,63.1,346560,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00209,PG,MCom Finance,Female,Hindu,0,OBC,76.8,531577,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00176,PG,MCom Finance,Male,Muslim,1,General,70.6,86101,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00134,UG,BCom Finance,Male,Hindu,0,OBC,55.1,316399,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00284,UG,BA English,Male,Muslim,1,General,78.4,384111,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00143,UG,BSc Mathematics,Male,Christian,1,General,75.3,576345,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00057,UG,BSc Mathematics,Female,Hindu,0,General,66.4,98376,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00063,UG,BSc Physics,Female,Christian,1,General,59.7,286090,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00019,UG,BCom Finance,Female,Christian,1,General,69.8,251248,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00280,UG,BSc Mathematics,Male,Christian,1,General,59.7,307803,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00193,UG,BSc Chemistry,Male,Muslim,1,General,84.3,397127,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00320,UG,BSc Chemistry,Male,Muslim,1,General,72.9,522630,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00134,UG,BCom Finance,Male,Hindu,0,OBC,55.1,316399,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00143,UG,BSc Mathematics,Male,Christian,1,General,75.3,576345,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00098,UG,BSc Mathematics,Female,Muslim,1,General,65.2,439321,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00125,UG,BA English,Female,Muslim,1,General,70.9,686270,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00082,UG,BA English,Male,Hindu,0,OBC,70.2,356042,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00156,UG,BSc Chemistry,Female,Christian,1,General,77.6,78228,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00088,UG,BSc Physics,Male,Christian,1,General,75.9,203313,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00447,UG,BA Economics,Female,Hindu,0,OBC,66.8,547423,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00011,UG,BA English,Male,Muslim,1,General,73.3,348768,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00152,PG,MA English,Female,Hindu,0,General,83.4,516560,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00197,PG,MSc Mathematics,Female,Hindu,0,ST,85,295827,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00021,UG,BCom Finance,Male,Hindu,0,General,71.8,266949,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00254,PG,MCom Finance,Male,Muslim,1,General,80.7,421371,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00445,PG,MCom Finance,Female,Christian,1,General,69.2,104477,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00034,UG,BA Economics,Male,Muslim,1,General,57.1,58159,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00416,UG,BSc Physics,Female,Hindu,0,OBC,80.2,305668,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00200,UG,BSc Mathematics,Female,Hindu,0,OBC,86.3,311254,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00193,UG,BSc Chemistry,Male,Muslim,1,General,84.3,397127,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00335,UG,BSc Mathematics,Male,Hindu,0,SC,81.1,62618,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00332,UG,BCom Finance,Female,Hindu,0,General,70,212693,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00305,UG,BSc Mathematics,Female,Muslim,1,General,85.4,454541,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00030,PG,MSc Mathematics,Female,Hindu,0,General,77,519452,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00082,UG,BA English,Male,Hindu,0,OBC,70.2,356042,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00196,UG,BSc Physics,Female,Muslim,1,General,72.3,573816,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00089,PG,MCom Finance,Male,Hindu,0,OBC,75.2,381645,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00016,UG,BA English,Male,Hindu,0,OBC,80.3,663617,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00430,UG,BCom Finance,Male,Hindu,0,OBC,82.4,90586,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00177,UG,BSc Chemistry,Female,Hindu,0,SC,73.5,286150,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00106,UG,BA English,Female,Muslim,1,General,68.8,483329,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00227,UG,BA Economics,Male,Hindu,0,OBC,66.3,248515,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00361,PG,MCom Finance,Male,Hindu,0,OBC,66.9,467704,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00427,UG,BA English,Male,Hindu,0,OBC,69.2,467062,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00059,UG,BA Economics,Male,Muslim,1,General,67.3,650153,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00432,UG,BSc Physics,Male,Muslim,1,General,64.4,135307,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00083,PG,MCom Finance,Female,Muslim,1,General,79.6,390081,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00005,UG,BA English,Male,Hindu,0,ST,71.9,315484,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00365,UG,BSc Mathematics,Male,Hindu,0,OBC,64.9,555274,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00399,PG,MCom Finance,Male,Hindu,0,OBC,64.1,664891,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00223,PG,MCom Finance,Male,Muslim,1,General,86.4,608041,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00044,UG,BCom Finance,Female,Hindu,0,OBC,73.4,178734,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00355,PG,MA English,Male,Hindu,0,General,83.3,513682,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00425,PG,MCom Finance,Male,Muslim,1,General,77.3,450946,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00192,UG,BCom Finance,Female,Hindu,0,General,66.8,534696,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00352,UG,BSc Chemistry,Female,Hindu,0,General,61.3,626137,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00339,PG,MA English,Male,Muslim,1,General,76.1,607264,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00233,PG,MA English,Female,Hindu,0,General,64.9,618558,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00224,UG,BSc Chemistry,Female,Muslim,1,General,81.6,584876,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00331,UG,BSc Chemistry,Male,Hindu,0,OBC,74.3,227306,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00149,UG,BSc Physics,Female,Hindu,0,General,81.9,257530,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00050,UG,BSc Mathematics,Female,Hindu,0,ST,67.8,127704,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00298,UG,BSc Physics,Female,Hindu,0,OBC,73,213040,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00249,UG,BCom Finance,Male,Hindu,0,General,75.3,121183,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00054,UG,BSc Mathematics,Male,Hindu,0,OBC,57.3,186874,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00408,UG,BA English,Male,Hindu,0,SC,54.8,600297,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00340,UG,BSc Chemistry,Female,Hindu,0,OBC,72.6,187310,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00147,PG,MCom Finance,Male,Hindu,0,SC,83.8,464774,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00416,UG,BSc Physics,Female,Hindu,0,OBC,80.2,305668,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00286,UG,BA English,Male,Hindu,0,SC,81.3,557257,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00064,UG,BCom Finance,Female,Muslim,1,General,68.9,518934,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00343,UG,BA Economics,Female,Christian,1,General,70.2,316944,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00034,UG,BA Economics,Male,Muslim,1,General,57.1,58159,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00448,UG,BA English,Female,Hindu,0,OBC,70.1,245967,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00211,UG,BSc Mathematics,Male,Hindu,0,OBC,58.8,527953,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00028,PG,MA English,Male,Hindu,0,ST,59.7,292801,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00225,PG,MA English,Male,Hindu,0,General,76.3,355614,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00031,PG,MCom Finance,Female,Christian,1,General,72.5,604297,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00195,UG,BCom Finance,Female,Hindu,0,OBC,74,647534,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00057,UG,BSc Mathematics,Female,Hindu,0,General,66.4,98376,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00406,UG,BSc Mathematics,Female,Hindu,0,General,57,632863,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00048,UG,BCom Finance,Female,Hindu,0,General,76.3,286462,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00423,UG,BA Economics,Female,Muslim,1,General,60.5,113988,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00110,UG,BCom Finance,Female,Christian,1,General,58.5,647561,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00347,UG,BSc Mathematics,Female,Christian,1,General,61.9,407838,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00008,PG,MSc Mathematics,Male,Muslim,1,General,82.2,534183,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00119,UG,BA English,Male,Hindu,0,General,69.4,118007,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00102,UG,BSc Physics,Male,Hindu,0,OBC,85.7,407781,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00065,UG,BA English,Female,Muslim,1,General,57.5,481411,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00101,PG,MCom Finance,Female,Hindu,0,SC,92,51216,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00093,UG,BSc Chemistry,Female,Christian,1,General,74.9,167196,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00448,UG,BA English,Female,Hindu,0,OBC,70.1,245967,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00314,UG,BSc Chemistry,Female,Hindu,0,ST,66.4,535871,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00384,UG,BSc Mathematics,Male,Muslim,1,General,79.6,458998,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00076,UG,BSc Chemistry,Female,Hindu,0,General,78.3,648109,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00058,UG,BSc Chemistry,Male,Hindu,0,General,69.6,634534,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00155,UG,BA Economics,Male,Christian,1,General,67.6,111809,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00284,UG,BA English,Male,Muslim,1,General,78.4,384111,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00280,UG,BSc Mathematics,Male,Christian,1,General,59.7,307803,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00144,UG,BSc Mathematics,Female,Hindu,0,General,64.2,109812,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00079,UG,BSc Chemistry,Male,Hindu,0,ST,58.2,181450,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00084,PG,MA English,Female,Hindu,0,OBC,77.9,295170,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00039,UG,BA Economics,Male,Muslim,1,General,63.8,376813,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00369,UG,BA English,Male,Hindu,0,OBC,53.5,598571,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00397,UG,BA Economics,Male,Christian,1,General,76.6,337750,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00328,PG,MCom Finance,Male,Muslim,1,General,66.9,603435,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00060,UG,BSc Physics,Male,Christian,1,General,87.4,505749,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00352,UG,BSc Chemistry,Female,Hindu,0,General,61.3,626137,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00428,UG,BCom Finance,Female,Hindu,0,General,82.3,671512,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00210,UG,BA Economics,Female,Christian,1,General,80,680070,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00168,UG,BA Economics,Female,Hindu,0,OBC,76.7,460943,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00354,UG,BSc Mathematics,Male,Hindu,0,General,61.9,343381,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00370,UG,BA Economics,Female,Hindu,0,General,62.3,414857,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00203,UG,BA Economics,Female,Christian,1,General,86.1,392583,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00119,UG,BA English,Male,Hindu,0,General,69.4,118007,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00108,PG,MSc Mathematics,Female,Hindu,0,General,77.3,365865,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00251,UG,BSc Chemistry,Male,Hindu,0,OBC,73.1,98458,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00022,UG,BSc Physics,Male,Hindu,0,General,68.6,388772,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00265,UG,BA Economics,Male,Hindu,0,General,64,629083,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00094,UG,BSc Chemistry,Male,Hindu,0,SC,68.7,206227,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00387,UG,BCom Finance,Female,Hindu,0,ST,57.9,263513,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00091,UG,BSc Mathematics,Female,Muslim,1,General,62.5,366047,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00191,UG,BSc Mathematics,Female,Muslim,1,General,76.5,530456,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00130,UG,BA Economics,Female,Hindu,0,SC,74.2,351417,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00014,UG,BA Economics,Male,Muslim,1,General,80,56792,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00058,UG,BSc Chemistry,Male,Hindu,0,General,69.6,634534,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00120,UG,BSc Physics,Male,Muslim,1,General,67.1,76197,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00309,UG,BA English,Female,Muslim,1,General,83.9,109213,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00398,UG,BA English,Male,Hindu,0,General,69.7,405655,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00272,UG,BA English,Female,Christian,1,General,50.6,481547,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00112,UG,BSc Physics,Female,Christian,1,General,70.3,338753,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00114,UG,BCom Finance,Female,Hindu,0,SC,72.2,386591,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00063,UG,BSc Physics,Female,Christian,1,General,59.7,286090,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00029,UG,BCom Finance,Male,Hindu,0,OBC,65.5,687557,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00279,PG,MSc Mathematics,Male,Christian,1,General,78.8,264466,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00292,UG,BSc Physics,Female,Muslim,1,General,69.9,122627,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00417,PG,MSc Mathematics,Female,Christian,1,General,77.1,321768,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00126,PG,MA English,Female,Hindu,0,General,67.8,65831,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00261,PG,MCom Finance,Female,Hindu,0,SC,77.5,214770,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00246,PG,MA English,Female,Hindu,0,ST,78.6,201164,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00437,PG,MA English,Male,Muslim,1,General,70.8,301596,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00134,UG,BCom Finance,Male,Hindu,0,OBC,55.1,316399,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00121,PG,MA English,Female,Hindu,0,ST,61.6,289824,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00400,UG,BSc Physics,Male,Hindu,0,ST,67.3,137709,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00189,PG,MCom Finance,Male,Muslim,1,General,72,506797,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00304,UG,BSc Physics,Female,Hindu,0,OBC,82.3,542793,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00003,UG,BSc Chemistry,Female,Christian,1,General,74.5,248946,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00327,PG,MSc Mathematics,Male,Christian,1,General,78.6,198248,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00275,PG,MSc Mathematics,Male,Hindu,0,General,70.4,484509,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00303,PG,MA English,Male,Hindu,0,SC,71.1,214453,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00184,UG,BSc Chemistry,Female,Muslim,1,General,55.4,592355,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00091,UG,BSc Mathematics,Female,Muslim,1,General,62.5,366047,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00258,UG,BSc Physics,Male,Hindu,0,General,88.7,106953,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00372,UG,BA Economics,Female,Muslim,1,General,70.9,665515,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00388,PG,MCom Finance,Male,Hindu,0,ST,72.7,279572,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00054,UG,BSc Mathematics,Male,Hindu,0,OBC,57.3,186874,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00113,PG,MSc Mathematics,Male,Muslim,1,General,72,65086,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00187,PG,MA English,Female,Muslim,1,General,71.1,585646,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00379,PG,MSc Mathematics,Male,Christian,1,General,88.1,514189,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00279,PG,MSc Mathematics,Male,Christian,1,General,78.8,264466,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00150,UG,BSc Chemistry,Male,Muslim,1,General,74.4,184826,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00127,UG,BSc Physics,Female,Hindu,0,SC,90,74937,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00400,UG,BSc Physics,Male,Hindu,0,ST,67.3,137709,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00113,PG,MSc Mathematics,Male,Muslim,1,General,72,65086,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00251,UG,BSc Chemistry,Male,Hindu,0,OBC,73.1,98458,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00393,UG,BA Economics,Female,Hindu,0,SC,57.4,685032,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00141,UG,BCom Finance,Female,Muslim,1,General,79.9,259346,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00273,UG,BSc Chemistry,Female,Hindu,0,General,75.3,681004,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00263,PG,MCom Finance,Female,Hindu,0,SC,65.8,349727,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00398,UG,BA English,Male,Hindu,0,General,69.7,405655,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00220,PG,MSc Mathematics,Male,Hindu,0,OBC,76,471198,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00318,UG,BSc Mathematics,Male,Hindu,0,General,80,536486,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00435,PG,MSc Mathematics,Female,Hindu,0,General,90,219218,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00228,UG,BSc Mathematics,Female,Hindu,0,SC,73.3,600402,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00165,PG,MSc Mathematics,Female,Muslim,1,General,75.3,524631,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00232,UG,BCom Finance,Male,Hindu,0,OBC,50,660337,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00371,UG,BSc Physics,Male,Hindu,0,General,75.9,426846,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00196,UG,BSc Physics,Female,Muslim,1,General,72.3,573816,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00233,PG,MA English,Female,Hindu,0,General,64.9,618558,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00358,PG,MCom Finance,Male,Hindu,0,General,79.4,137974,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00069,UG,BSc Physics,Female,Hindu,0,General,73.2,193336,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00069,UG,BSc Physics,Female,Hindu,0,General,73.2,193336,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00142,PG,MA English,Female,Hindu,0,ST,75,641007,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00083,PG,MCom Finance,Female,Muslim,1,General,79.6,390081,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00136,UG,BA Economics,Male,Hindu,0,OBC,59.5,220018,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00015,UG,BA Economics,Male,Hindu,0,OBC,65.1,259465,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00298,UG,BSc Physics,Female,Hindu,0,OBC,73,213040,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00051,UG,BA English,Female,Hindu,0,General,59.3,142889,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00425,PG,MCom Finance,Male,Muslim,1,General,77.3,450946,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00039,UG,BA Economics,Male,Muslim,1,General,63.8,376813,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00297,UG,BSc Mathematics,Female,Hindu,0,General,57,388167,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00191,UG,BSc Mathematics,Female,Muslim,1,General,76.5,530456,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00258,UG,BSc Physics,Male,Hindu,0,General,88.7,106953,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00434,UG,BSc Physics,Male,Christian,1,General,81.7,288226,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00375,UG,BSc Chemistry,Female,Muslim,1,General,78.2,338061,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00317,UG,BA Economics,Male,Christian,1,General,81.6,597506,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00149,UG,BSc Physics,Female,Hindu,0,General,81.9,257530,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00008,PG,MSc Mathematics,Male,Muslim,1,General,82.2,534183,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00186,UG,BA Economics,Female,Hindu,0,OBC,71.5,204904,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00056,UG,BSc Mathematics,Male,Muslim,1,General,67.8,240137,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00200,UG,BSc Mathematics,Female,Hindu,0,OBC,86.3,311254,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00403,PG,MSc Mathematics,Female,Christian,1,General,98.7,217803,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00423,UG,BA Economics,Female,Muslim,1,General,60.5,113988,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00042,UG,BCom Finance,Male,Hindu,0,General,72.7,319674,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00003,UG,BSc Chemistry,Female,Christian,1,General,74.5,248946,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00133,PG,MSc Mathematics,Male,Hindu,0,SC,58.1,385478,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00296,PG,MSc Mathematics,Female,Hindu,0,OBC,85.3,596438,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00132,UG,BA English,Male,Christian,1,General,76.1,112802,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00374,UG,BA Economics,Female,Muslim,1,General,60.4,626169,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00330,UG,BA English,Female,Hindu,0,SC,90,46195,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00362,UG,BSc Chemistry,Male,Muslim,1,General,75,79948,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00117,UG,BA Economics,Female,Hindu,0,General,69.4,135249,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00137,UG,BA English,Male,Hindu,0,ST,71.9,72331,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00334,UG,BSc Physics,Male,Hindu,0,ST,78.7,429686,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00355,PG,MA English,Male,Hindu,0,General,83.3,513682,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00180,UG,BA Economics,Male,Hindu,0,General,75.4,573994,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00007,PG,MA English,Female,Muslim,1,General,76.3,671294,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00084,PG,MA English,Female,Hindu,0,OBC,77.9,295170,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00207,PG,MSc Mathematics,Female,Muslim,1,General,73.2,677619,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00361,PG,MCom Finance,Male,Hindu,0,OBC,66.9,467704,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00363,UG,BSc Chemistry,Female,Hindu,0,OBC,68.8,655553,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00046,UG,BA English,Male,Hindu,0,SC,66,156948,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00282,PG,MSc Mathematics,Male,Muslim,1,General,65.6,447005,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00439,UG,BA Economics,Male,Hindu,0,General,82.9,371751,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00357,PG,MCom Finance,Female,Hindu,0,SC,80.2,388701,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00269,UG,BA Economics,Male,Muslim,1,General,64.5,340899,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00103,PG,MA English,Female,Christian,1,General,81.6,613619,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00026,UG,BA Economics,Female,Hindu,0,SC,77.8,510411,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00196,UG,BSc Physics,Female,Muslim,1,General,72.3,573816,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00036,UG,BA Economics,Male,Christian,1,General,69.9,150451,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00218,UG,BCom Finance,Male,Hindu,0,General,53.1,336011,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00029,UG,BCom Finance,Male,Hindu,0,OBC,65.5,687557,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00309,UG,BA English,Female,Muslim,1,General,83.9,109213,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00005,UG,BA English,Male,Hindu,0,ST,71.9,315484,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00372,UG,BA Economics,Female,Muslim,1,General,70.9,665515,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00224,UG,BSc Chemistry,Female,Muslim,1,General,81.6,584876,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00406,UG,BSc Mathematics,Female,Hindu,0,General,57,632863,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00407,PG,MCom Finance,Female,Hindu,0,SC,77.1,253494,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00145,UG,BCom Finance,Female,Hindu,0,General,82.9,239178,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00129,UG,BCom Finance,Male,Hindu,0,General,53.1,40588,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00116,UG,BSc Mathematics,Female,Christian,1,General,72.9,637517,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00240,UG,BA Economics,Female,Muslim,1,General,59.7,472027,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00165,PG,MSc Mathematics,Female,Muslim,1,General,75.3,524631,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00102,UG,BSc Physics,Male,Hindu,0,OBC,85.7,407781,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00347,UG,BSc Mathematics,Female,Christian,1,General,61.9,407838,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00063,UG,BSc Physics,Female,Christian,1,General,59.7,286090,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00392,PG,MA English,Male,Hindu,0,SC,82.9,495039,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00213,PG,MSc Mathematics,Female,Hindu,0,ST,70.5,465957,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00373,UG,BCom Finance,Female,Christian,1,General,65.6,619472,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00057,UG,BSc Mathematics,Female,Hindu,0,General,66.4,98376,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00111,UG,BSc Mathematics,Male,Hindu,0,OBC,69.9,190897,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00069,UG,BSc Physics,Female,Hindu,0,General,73.2,193336,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00178,UG,BSc Physics,Female,Hindu,0,OBC,70.1,296901,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00264,PG,MSc Mathematics,Female,Hindu,0,OBC,70.4,234642,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00416,UG,BSc Physics,Female,Hindu,0,OBC,80.2,305668,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00194,UG,BA English,Female,Muslim,1,General,77.3,131573,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00179,UG,BCom Finance,Female,Hindu,0,SC,60.3,283135,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00031,PG,MCom Finance,Female,Christian,1,General,72.5,604297,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00183,UG,BSc Mathematics,Female,Muslim,1,General,58.3,574146,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00335,UG,BSc Mathematics,Male,Hindu,0,SC,81.1,62618,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00223,PG,MCom Finance,Male,Muslim,1,General,86.4,608041,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00202,PG,MSc Mathematics,Female,Hindu,0,OBC,80,207367,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00301,UG,BSc Mathematics,Female,Hindu,0,OBC,82.1,121578,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00251,UG,BSc Chemistry,Male,Hindu,0,OBC,73.1,98458,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00201,PG,MCom Finance,Male,Hindu,0,SC,69,512721,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00364,UG,BCom Finance,Female,Hindu,0,SC,75.7,143967,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00033,PG,MA English,Male,Hindu,0,SC,77,257660,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00091,UG,BSc Mathematics,Female,Muslim,1,General,62.5,366047,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00183,UG,BSc Mathematics,Female,Muslim,1,General,58.3,574146,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00343,UG,BA Economics,Female,Christian,1,General,70.2,316944,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00379,PG,MSc Mathematics,Male,Christian,1,General,88.1,514189,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00405,UG,BA Economics,Male,Hindu,0,OBC,68.9,617560,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00271,UG,BSc Mathematics,Male,Christian,1,General,65,108250,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00095,PG,MSc Mathematics,Male,Hindu,0,OBC,77.5,599365,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00096,UG,BSc Chemistry,Female,Hindu,0,OBC,63.8,498958,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00342,PG,MCom Finance,Female,Christian,1,General,79.3,191328,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00321,UG,BA Economics,Male,Hindu,0,SC,57.1,210778,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00153,UG,BCom Finance,Female,Muslim,1,General,74.7,147359,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00340,UG,BSc Chemistry,Female,Hindu,0,OBC,72.6,187310,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00028,PG,MA English,Male,Hindu,0,ST,59.7,292801,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00148,PG,MCom Finance,Female,Christian,1,General,87.3,612190,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00363,UG,BSc Chemistry,Female,Hindu,0,OBC,68.8,655553,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00399,PG,MCom Finance,Male,Hindu,0,OBC,64.1,664891,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00075,PG,MCom Finance,Male,Muslim,1,General,62.2,336054,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00404,UG,BSc Physics,Female,Hindu,0,OBC,82,542813,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00323,PG,MSc Mathematics,Female,Muslim,1,General,78.8,171719,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00379,PG,MSc Mathematics,Male,Christian,1,General,88.1,514189,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00366,UG,BSc Chemistry,Female,Hindu,0,SC,53.9,512740,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00325,UG,BA English,Female,Muslim,1,General,73.8,632960,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00368,UG,BSc Chemistry,Female,Christian,1,General,76.3,286289,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00360,UG,BSc Physics,Male,Muslim,1,General,78.2,367784,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00436,UG,BSc Chemistry,Male,Christian,1,General,64.2,483500,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00438,UG,BA English,Male,Christian,1,General,70.6,393654,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00198,UG,BA English,Male,Hindu,0,General,76.3,544807,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00021,UG,BCom Finance,Male,Hindu,0,General,71.8,266949,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00227,UG,BA Economics,Male,Hindu,0,OBC,66.3,248515,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00369,UG,BA English,Male,Hindu,0,OBC,53.5,598571,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00058,UG,BSc Chemistry,Male,Hindu,0,General,69.6,634534,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00326,PG,MA English,Female,Muslim,1,General,88,245506,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00033,PG,MA English,Male,Hindu,0,SC,77,257660,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00406,UG,BSc Mathematics,Female,Hindu,0,General,57,632863,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00015,UG,BA Economics,Male,Hindu,0,OBC,65.1,259465,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00110,UG,BCom Finance,Female,Christian,1,General,58.5,647561,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00048,UG,BCom Finance,Female,Hindu,0,General,76.3,286462,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00422,UG,BSc Physics,Female,Christian,1,General,97.8,97815,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00404,UG,BSc Physics,Female,Hindu,0,OBC,82,542813,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00122,UG,BCom Finance,Male,Hindu,0,OBC,69.4,382961,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00263,PG,MCom Finance,Female,Hindu,0,SC,65.8,349727,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00227,UG,BA Economics,Male,Hindu,0,OBC,66.3,248515,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00182,UG,BSc Physics,Male,Hindu,0,OBC,83,468355,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00172,UG,BA English,Female,Christian,1,General,70.8,556533,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00276,UG,BA English,Male,Hindu,0,OBC,73.8,172110,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00398,UG,BA English,Male,Hindu,0,General,69.7,405655,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00048,UG,BCom Finance,Female,Hindu,0,General,76.3,286462,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00133,PG,MSc Mathematics,Male,Hindu,0,SC,58.1,385478,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00311,PG,MA English,Female,Hindu,0,General,81.7,45121,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00153,UG,BCom Finance,Female,Muslim,1,General,74.7,147359,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00185,UG,BSc Chemistry,Female,Hindu,0,SC,54.5,641304,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00022,UG,BSc Physics,Male,Hindu,0,General,68.6,388772,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00149,UG,BSc Physics,Female,Hindu,0,General,81.9,257530,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00242,UG,BCom Finance,Male,Hindu,0,OBC,69.3,354758,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00406,UG,BSc Mathematics,Female,Hindu,0,General,57,632863,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00005,UG,BA English,Male,Hindu,0,ST,71.9,315484,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00439,UG,BA Economics,Male,Hindu,0,General,82.9,371751,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00270,UG,BA Economics,Female,Hindu,0,SC,60.3,477592,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00441,UG,BA English,Female,Hindu,0,OBC,65.2,54387,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00304,UG,BSc Physics,Female,Hindu,0,OBC,82.3,542793,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00350,PG,MA English,Male,Hindu,0,General,88,353867,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00207,PG,MSc Mathematics,Female,Muslim,1,General,73.2,677619,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00125,UG,BA English,Female,Muslim,1,General,70.9,686270,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00315,UG,BSc Mathematics,Female,Hindu,0,SC,61.6,472663,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00429,UG,BSc Mathematics,Male,Christian,1,General,70.9,160461,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00253,PG,MCom Finance,Male,Hindu,0,SC,69.5,420163,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00389,PG,MSc Mathematics,Female,Muslim,1,General,78.1,641949,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00090,PG,MA English,Female,Christian,1,General,74.4,400967,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00330,UG,BA English,Female,Hindu,0,SC,90,46195,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00100,UG,BSc Physics,Male,Hindu,0,SC,63.2,670284,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00354,UG,BSc Mathematics,Male,Hindu,0,General,61.9,343381,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00221,PG,MCom Finance,Female,Hindu,0,OBC,80.6,534864,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00160,UG,BA English,Female,Hindu,0,General,82.1,54410,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00050,UG,BSc Mathematics,Female,Hindu,0,ST,67.8,127704,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00173,UG,BCom Finance,Male,Hindu,0,OBC,68.1,112513,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00420,UG,BSc Chemistry,Female,Hindu,0,OBC,63.7,256689,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00344,PG,MCom Finance,Male,Hindu,0,SC,68.2,363435,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00194,UG,BA English,Female,Muslim,1,General,77.3,131573,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00352,UG,BSc Chemistry,Female,Hindu,0,General,61.3,626137,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00105,UG,BSc Chemistry,Male,Christian,1,General,73.2,384787,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00211,UG,BSc Mathematics,Male,Hindu,0,OBC,58.8,527953,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00409,UG,BSc Chemistry,Female,Hindu,0,SC,70.2,319892,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00080,UG,BA English,Female,Hindu,0,OBC,83.3,49612,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00301,UG,BSc Mathematics,Female,Hindu,0,OBC,82.1,121578,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00173,UG,BCom Finance,Male,Hindu,0,OBC,68.1,112513,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00222,UG,BSc Mathematics,Female,Hindu,0,OBC,74,558633,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00370,UG,BA Economics,Female,Hindu,0,General,62.3,414857,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00188,UG,BA English,Female,Hindu,0,OBC,76.5,346311,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00103,PG,MA English,Female,Christian,1,General,81.6,613619,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00422,UG,BSc Physics,Female,Christian,1,General,97.8,97815,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00329,PG,MCom Finance,Female,Hindu,0,OBC,76.2,467449,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00175,UG,BCom Finance,Male,Hindu,0,OBC,59.7,221868,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00158,PG,MA English,Male,Hindu,0,SC,89.5,322714,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00213,PG,MSc Mathematics,Female,Hindu,0,ST,70.5,465957,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00385,UG,BA Economics,Female,Hindu,0,General,83.7,593797,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00111,UG,BSc Mathematics,Male,Hindu,0,OBC,69.9,190897,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00052,UG,BSc Mathematics,Male,Hindu,0,SC,64.8,625461,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00293,UG,BA English,Female,Muslim,1,General,59.5,662094,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00092,UG,BSc Physics,Male,Hindu,0,OBC,63.3,87969,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00049,UG,BCom Finance,Female,Hindu,0,OBC,77.2,398953,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00027,UG,BSc Physics,Male,Hindu,0,ST,68.8,270851,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00308,UG,BA Economics,Female,Hindu,0,OBC,67.6,680890,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00055,UG,BCom Finance,Female,Hindu,0,OBC,70.9,208113,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00073,PG,MA English,Female,Hindu,0,General,81.6,134811,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00390,UG,BCom Finance,Male,Muslim,1,General,73.7,359861,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00186,UG,BA Economics,Female,Hindu,0,OBC,71.5,204904,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00174,UG,BA English,Female,Muslim,1,General,61.7,370302,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00068,UG,BSc Mathematics,Female,Hindu,0,SC,74.2,538821,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00426,UG,BA English,Male,Christian,1,General,72.7,495415,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00443,UG,BA Economics,Male,Hindu,0,OBC,50,248814,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00287,UG,BSc Chemistry,Male,Hindu,0,ST,91.5,550320,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00290,PG,MCom Finance,Female,Hindu,0,OBC,65.5,575847,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00366,UG,BSc Chemistry,Female,Hindu,0,SC,53.9,512740,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00345,UG,BSc Mathematics,Female,Hindu,0,OBC,68.6,182764,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00083,PG,MCom Finance,Female,Muslim,1,General,79.6,390081,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00097,UG,BSc Physics,Male,Christian,1,General,73.4,289446,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00183,UG,BSc Mathematics,Female,Muslim,1,General,58.3,574146,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00156,UG,BSc Chemistry,Female,Christian,1,General,77.6,78228,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,1,ALL
+S00096,UG,BSc Chemistry,Female,Hindu,0,OBC,63.8,498958,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00414,PG,MA English,Male,Hindu,0,OBC,72.3,599633,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00213,PG,MSc Mathematics,Female,Hindu,0,ST,70.5,465957,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00226,UG,BA English,Female,Hindu,0,ST,71.8,561851,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00106,UG,BA English,Female,Muslim,1,General,68.8,483329,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00394,UG,BSc Chemistry,Male,Hindu,0,General,54.9,347958,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00356,PG,MCom Finance,Female,Hindu,0,General,80.1,119699,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00166,PG,MSc Mathematics,Female,Muslim,1,General,72.5,357909,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00283,UG,BCom Finance,Male,Muslim,1,General,56.5,152103,1,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00164,UG,BSc Chemistry,Female,Christian,1,General,62.4,389973,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00311,PG,MA English,Female,Hindu,0,General,81.7,45121,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00009,UG,BA English,Female,Hindu,0,General,63.5,87861,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00092,UG,BSc Physics,Male,Hindu,0,OBC,63.3,87969,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00003,UG,BSc Chemistry,Female,Christian,1,General,74.5,248946,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00062,UG,BCom Finance,Female,Hindu,0,OBC,76.5,333359,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00163,PG,MCom Finance,Female,Hindu,0,OBC,76.1,547543,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00181,UG,BSc Physics,Male,Hindu,0,General,63.3,552725,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00085,UG,BSc Physics,Male,Hindu,0,General,58,674204,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00318,UG,BSc Mathematics,Male,Hindu,0,General,80,536486,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00149,UG,BSc Physics,Female,Hindu,0,General,81.9,257530,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00059,UG,BA Economics,Male,Muslim,1,General,67.3,650153,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00087,PG,MCom Finance,Male,Hindu,0,SC,68.4,574131,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00449,PG,MCom Finance,Male,Muslim,1,General,85,351207,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00387,UG,BCom Finance,Female,Hindu,0,ST,57.9,263513,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00181,UG,BSc Physics,Male,Hindu,0,General,63.3,552725,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00174,UG,BA English,Female,Muslim,1,General,61.7,370302,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00259,PG,MSc Mathematics,Female,Muslim,1,General,68.5,54909,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00401,UG,BSc Mathematics,Female,Hindu,0,General,68.6,242679,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00187,PG,MA English,Female,Muslim,1,General,71.1,585646,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00156,UG,BSc Chemistry,Female,Christian,1,General,77.6,78228,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00013,UG,BA Economics,Female,Hindu,0,SC,67.5,66749,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00337,PG,MCom Finance,Male,Hindu,0,ST,87.3,322540,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00271,UG,BSc Mathematics,Male,Christian,1,General,65,108250,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00402,UG,BSc Chemistry,Female,Hindu,0,OBC,72.1,591169,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00234,PG,MCom Finance,Male,Muslim,1,General,80.5,294926,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00025,PG,MSc Mathematics,Female,Muslim,1,General,70.5,138676,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00019,UG,BCom Finance,Female,Christian,1,General,69.8,251248,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00356,PG,MCom Finance,Female,Hindu,0,General,80.1,119699,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00381,UG,BA Economics,Male,Hindu,0,General,57.9,269017,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00429,UG,BSc Mathematics,Male,Christian,1,General,70.9,160461,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,1,General
+S00185,UG,BSc Chemistry,Female,Hindu,0,SC,54.5,641304,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00011,UG,BA English,Male,Muslim,1,General,73.3,348768,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00304,UG,BSc Physics,Female,Hindu,0,OBC,82.3,542793,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00122,UG,BCom Finance,Male,Hindu,0,OBC,69.4,382961,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00104,UG,BSc Mathematics,Female,Hindu,0,SC,89,449341,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00016,UG,BA English,Male,Hindu,0,OBC,80.3,663617,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00326,PG,MA English,Female,Muslim,1,General,88,245506,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00399,PG,MCom Finance,Male,Hindu,0,OBC,64.1,664891,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00441,UG,BA English,Female,Hindu,0,OBC,65.2,54387,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00025,PG,MSc Mathematics,Female,Muslim,1,General,70.5,138676,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00155,UG,BA Economics,Male,Christian,1,General,67.6,111809,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00062,UG,BCom Finance,Female,Hindu,0,OBC,76.5,333359,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00184,UG,BSc Chemistry,Female,Muslim,1,General,55.4,592355,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00440,UG,BA English,Male,Hindu,0,General,75.5,379438,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00210,UG,BA Economics,Female,Christian,1,General,80,680070,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00123,UG,BA English,Male,Muslim,1,General,64.5,418572,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00431,PG,MA English,Male,Christian,1,General,59.1,352059,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00044,UG,BCom Finance,Female,Hindu,0,OBC,73.4,178734,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00385,UG,BA Economics,Female,Hindu,0,General,83.7,593797,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00269,UG,BA Economics,Male,Muslim,1,General,64.5,340899,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00125,UG,BA English,Female,Muslim,1,General,70.9,686270,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00041,PG,MCom Finance,Female,Christian,1,General,84.5,98625,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00113,PG,MSc Mathematics,Male,Muslim,1,General,72,65086,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00235,UG,BA English,Male,Hindu,0,General,59.2,101036,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00132,UG,BA English,Male,Christian,1,General,76.1,112802,1,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00206,PG,MA English,Female,Hindu,0,OBC,85.4,635509,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00273,UG,BSc Chemistry,Female,Hindu,0,General,75.3,681004,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00418,UG,BSc Physics,Male,Hindu,0,OBC,80.5,392655,0,SCH_IN,INSPIRE Scholarship,80,500000,1,ALL
+S00245,UG,BCom Finance,Female,Hindu,0,General,66.6,371724,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00301,UG,BSc Mathematics,Female,Hindu,0,OBC,82.1,121578,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00448,UG,BA English,Female,Hindu,0,OBC,70.1,245967,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00407,PG,MCom Finance,Female,Hindu,0,SC,77.1,253494,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00337,PG,MCom Finance,Male,Hindu,0,ST,87.3,322540,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00291,UG,BA English,Male,Muslim,1,General,93,85514,1,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00084,PG,MA English,Female,Hindu,0,OBC,77.9,295170,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00231,UG,BA Economics,Male,Hindu,0,OBC,71.6,402435,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00188,UG,BA English,Female,Hindu,0,OBC,76.5,346311,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00131,UG,BA English,Female,Hindu,0,OBC,66,361239,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00197,PG,MSc Mathematics,Female,Hindu,0,ST,85,295827,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+S00328,PG,MCom Finance,Male,Muslim,1,General,66.9,603435,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00234,PG,MCom Finance,Male,Muslim,1,General,80.5,294926,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00024,UG,BA Economics,Male,Hindu,0,SC,80.2,597530,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00423,UG,BA Economics,Female,Muslim,1,General,60.5,113988,1,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00161,UG,BA English,Male,Muslim,1,General,66.7,412022,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00153,UG,BCom Finance,Female,Muslim,1,General,74.7,147359,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,0,"SC, ST, OBC"
+S00237,PG,MA English,Female,Hindu,0,SC,78.9,372485,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00415,UG,BSc Chemistry,Female,Hindu,0,SC,61.4,238306,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00426,UG,BA English,Male,Christian,1,General,72.7,495415,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00202,PG,MSc Mathematics,Female,Hindu,0,OBC,80,207367,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00256,UG,BSc Mathematics,Male,Christian,1,General,67.7,319820,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00025,PG,MSc Mathematics,Female,Muslim,1,General,70.5,138676,0,SCH_SM,State Merit Scholarship (Kerala),75,150000,0,ALL
+S00197,PG,MSc Mathematics,Female,Hindu,0,ST,85,295827,0,SCH_PM,Post-Matric Scholarship (Minority),50,200000,0,General
+S00027,UG,BSc Physics,Male,Hindu,0,ST,68.8,270851,0,SCH_IN,INSPIRE Scholarship,80,500000,0,ALL
+S00221,PG,MCom Finance,Female,Hindu,0,OBC,80.6,534864,0,SCH_EG,E-Grantz Scholarship (Kerala),,600000,1,"SC, ST, OBC"
+,,,,,,,,,,,,,,,
