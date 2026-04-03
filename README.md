@@ -24,6 +24,7 @@ The objective of this project is to assist students in identifying eligible scho
 - Flask (Backend API)
 
 **System Architecture**
+
 The system follows a modular pipeline:
 
 1. User input (form and document upload)
